@@ -1,16 +1,19 @@
-### Hi there 👋
+# Sidharth Mudgil
 
-<!--
-**SidharthMudgil/SidharthMudgil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just playing with this special repository
 
-Here are some ideas to get you started:
+## Other Places on the Internet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/sidharthmudgil/)
+- [StackOverflow](https://tulpa.dev/cadey)
+- [LeetCode](https://leetcode.com/SidharthMudgil/)
+
+[![user:16177121's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/16177121?theme=dark&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
+
+## Contact Methods
+
+Find all of my contact methods [here](https://xeiaso.net/contact).
+
+---
+
+Be well, Creator.
