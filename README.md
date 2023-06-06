@@ -1,0 +1,88 @@
+<pre align="center">
+░██████╗██╗██████╗░██╗░░██╗░█████╗░██████╗░████████╗██╗░░██╗  ███╗░░░███╗██╗░░░██╗██████╗░░██████╗░██╗██╗░░░░░
+██╔════╝██║██╔══██╗██║░░██║██╔══██╗██╔══██╗╚══██╔══╝██║░░██║  ████╗░████║██║░░░██║██╔══██╗██╔════╝░██║██║░░░░░
+╚█████╗░██║██║░░██║███████║███████║██████╔╝░░░██║░░░███████║  ██╔████╔██║██║░░░██║██║░░██║██║░░██╗░██║██║░░░░░
+░╚═══██╗██║██║░░██║██╔══██║██╔══██║██╔══██╗░░░██║░░░██╔══██║  ██║╚██╔╝██║██║░░░██║██║░░██║██║░░╚██╗██║██║░░░░░
+██████╔╝██║██████╔╝██║░░██║██║░░██║██║░░██║░░░██║░░░██║░░██║  ██║░╚═╝░██║╚██████╔╝██████╔╝╚██████╔╝██║███████╗
+╚═════╝░╚═╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝  ╚═╝░░░░░╚═╝░╚═════╝░╚═════╝░░╚═════╝░╚═╝╚══════╝
+
+
+█   ▄▀█ █▀▄▀█   █▀ █ █▀▄ █ █ ▄▀█ █▀█ ▀█▀ █ █   █▀▄▀█ █ █ █▀▄ █▀▀ █ █     ▄▄   █▄█ █▀█
+█   █▀█ █ ▀ █   ▄█ █ █▄▀ █▀█ █▀█ █▀▄  █  █▀█   █ ▀ █ █▄█ █▄▀ █▄█ █ █▄▄         █  █▄█
+</pre>
+
+---
+<h4 align="center">Freshers, like freshly made wine, mature over time,<br />
+Transforming into skilled programmers, their ascent sublime</h4>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sidharthmudgil" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://drive.google.com/file/d/1d9QvrNrTHxYIawmRqLwg6p6BEUxpUURB/view?usp=share_link" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=My Resume&logo=document&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://www.stackoverflow.com/users/16177121/sidharth-mudgil" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+</div>
+
+</br>
+<p>
+  Hey, I'm Sidharth Mudgil, an Android Developer with 7 months of professional experience and over a year of personal experience. I'm into coding and creating cool apps that can help
+  people. Apart from coding, I also love listening to music and spending time outdoors. I'm currently studying Computer Science and Engineering.
+</p>
+
+* 👋 Greetings from Haryana, India! If you want someone to chat, You can always reach me [here](mailto:smudgil101@gmail.com).
+* 🚀 I'm currently immersed in some top-secret projects, and I promise, they're going to be fantastic!
+* 🧠 I'm always looking for ways to learn and grow. Recently, I've been mastering Android development best practices.
+* 🌟 I'm always up for engaging conversations! Whether it's about Anime, Games, or even Bigfoot.
+
+
+
+### Skills
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="60" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="60" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="60" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="60" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="60" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="60" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="60" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="60" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="60" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="60" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" width="60" alt="illustrator logo"  />
+</div>
+
+### Socials
+<p align="left">
+  <a href="https://discord.com/users/SidharthMudgil#7880" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="60" height="40" />
+  </a> 
+  <a href="https://www.github.com/sidharthmudgil" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="60" height="40" />
+  </a> 
+  <a href="https://www.linkedin.com/in/sidharthmudgil" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="60" height="40" />
+  </a> 
+  <a href="https://www.stackoverflow.com/users/16177121/sidharth-mudgil" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="60" height="40" />
+  </a>
+</p>
+
+</br>
+
+---
+
+<p align="center">
+  <img src="https://moe-counter.glitch.me/get/@sidharthmudgil" alt="profile view counter"/>
+</p>
+
+---
+
+<p align="center">
+  <strong>┌∩┐(<b color="red">◣</b>_<b color="red">◢</b>)┌∩┐</strong>
+</p>
