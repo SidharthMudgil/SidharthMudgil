@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  ![sutra](https://github.com/SidharthMudgil/SidharthMudgil/assets/68889544/1d671ee8-c3ff-4fe6-8a06-2a8c6ba229ca)
+  ![sutra](https://github.com/SidharthMudgil/SidharthMudgil/assets/68889544/9e18cd27-1055-4c8c-83f9-a5fb5cc7ebec)
 </div>
 
 <div align="center">
