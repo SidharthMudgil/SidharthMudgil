@@ -12,8 +12,14 @@
 </pre>
 
 ---
-<h4 align="center">Freshers, like freshly made wine, mature over time,<br />
-Transforming into skilled programmers, their ascent sublime</h4>
+<!--   Freshers, like freshly made wine, mature over time,<br /> -->
+<!--   Transforming into skilled programmers, their ascent sublime -->
+<!--  अल्पाक्षरमसंदिग्धं सारवद्विश्वतोमुखम् । अस्तो-भमनवद्यं च सूत्रं सूत्रविदो विदुः -->
+
+<div align="center">
+  
+  ![sutra](https://github.com/SidharthMudgil/SidharthMudgil/assets/68889544/1d671ee8-c3ff-4fe6-8a06-2a8c6ba229ca)
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sidharthmudgil" target="_blank">
