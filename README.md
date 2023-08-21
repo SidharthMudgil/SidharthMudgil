@@ -35,8 +35,7 @@
 
 </br>
 <p>
-  Hey, I'm Sidharth Mudgil, an Android Developer with 7 months of professional experience and over a year of personal experience. I'm into coding and creating cool apps that can help
-  people. Apart from coding, I also love listening to music and spending time outdoors. I'm currently studying Computer Science and Engineering.
+  Hey, I'm Sidharth Mudgil, an Android Developer with over 7 months of professional experience and over a year of personal experience. I'm into coding and creating cool apps that people can use day to day. Apart from coding, I also love listening to music and spending time outdoors. I've recently graduated with a BTech in Computer Science and Engineering.
 </p>
 
 * 👋 Greetings from Haryana, India! If you want someone to chat, You can always reach me [here](mailto:smudgil101@gmail.com).
