@@ -25,9 +25,9 @@
   <a href="https://www.linkedin.com/in/sidharthmudgil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://drive.google.com/file/d/1d9QvrNrTHxYIawmRqLwg6p6BEUxpUURB/view?usp=share_link" target="_blank">
+<!--   <a href="https://drive.google.com/file/d/1d9QvrNrTHxYIawmRqLwg6p6BEUxpUURB/view?usp=share_link" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My Resume&logo=document&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+  </a> -->
   <a href="https://www.stackoverflow.com/users/16177121/sidharth-mudgil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
   </a>
