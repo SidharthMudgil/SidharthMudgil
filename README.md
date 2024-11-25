@@ -41,7 +41,7 @@
 * 👋 Greetings from Haryana, India! If you want someone to chat, You can always reach me [here](mailto:smudgil101@gmail.com).
 * 🚀 I'm currently immersed in some top-secret projects, and I promise, they're going to be fantastic!
 * 🧠 I'm always looking for ways to learn and grow. Recently, I've been mastering Android development best practices.
-* 🌟 I'm always up for engaging conversations! Whether it's about Anime, Games, or even Bigfoot.
+* 🌟 I'm always up for engaging conversations! Whether it's about Anime, Games, or even Politics.
 
 
 
