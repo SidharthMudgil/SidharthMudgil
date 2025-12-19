@@ -20,6 +20,9 @@
   
   ![sutra](https://github.com/SidharthMudgil/SidharthMudgil/assets/68889544/9e18cd27-1055-4c8c-83f9-a5fb5cc7ebec)
 </div> -->
+<p align="center">
+  <img src="https://moe-counter.glitch.me/get/@sidharthmudgil" alt="profile view counter"/>
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sidharthmudgil" target="_blank">
