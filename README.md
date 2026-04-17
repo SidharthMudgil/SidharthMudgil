@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://count.getloli.com/@:sidharthmudgil?name=%3Asidharthmudgil&theme=booru-r6gdrawfriends&padding=7&offset=10&align=center&scale=0.8&pixelated=1&darkmode=auto&num=6921&prefix=0" alt="profile view counter"/>
+  <img src="https://count.getloli.com/@:sidharthmudgil?name=sidharthmudgil&theme=booru-r6gdrawfriends&padding=7&offset=10&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="profile view counter"/>
 </p>
 
 <div align="center">
