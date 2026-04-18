@@ -32,9 +32,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://count.getloli.com/@:sidharthmudgil?name=sidharthmudgil&theme=booru-r6gdrawfriends&padding=7&offset=10&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="profile view counter"/>
-</p>
+</p> -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sidharthmudgil" target="_blank">
